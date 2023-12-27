@@ -27,6 +27,10 @@ __ПО__: IntelliJ IDEA, Scene Builder
 ### Важно:
 После скачивания проекта, нужно поменять имя файла с "readme.md" на "readme.txt".
 
+### API: 
+В проекте используется OpenWeatherMap API для получения данных в формате JSON. В проекте нет токена. 
+В классе HttpsConnect есть реализация.
+
 ### Котакты: 
 * Основной канал: [Chessplayer - IT Specialist](https://www.youtube.com/@chessplayeritspecialist)  
 * Канал разработчика: [Alexey Gantsevich](https://www.youtube.com/channel/UCt7oE2_eelKlB88rXJ00jXg)
